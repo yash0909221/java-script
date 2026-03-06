@@ -15,3 +15,12 @@ Non-primitive dataType :
 Array
 Objects
 Functions
+
+
+//*****************Memory*****************
+
+//stack(primitive) and heap(nonprimitive)
+
+// if we are using primitive and stack data type then the copy of that data is provide 
+
+// but in non primitive or heap data type the real data is accessed to the used for the changes
