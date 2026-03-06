@@ -1,0 +1,17 @@
+DataType types :
+
+1. primitive dataTypes
+2. Non - primitive dataTypes
+
+primitive dataType :
+string
+numbers
+booleans
+null
+undefined
+bigint
+
+Non-primitive dataType :
+Array
+Objects
+Functions
